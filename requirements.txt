@@ -1,0 +1,3 @@
+fastapi==0.70.1
+celery==4.4.7
+SQLAlchemy==1.4.26
